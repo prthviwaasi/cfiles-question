@@ -1,0 +1,29 @@
+html{
+  background-color: #ECF8F9;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+div div{
+  text-align: center;
+  margin: 50px 0px 40% 0px;
+}
+.playerOne{
+  font-size: 2rem;
+  /* margin-top: 25%;
+  padding-bottom: 20px; */
+}
+.playerTwo{
+  font-size: 2rem;
+  /* margin-left: 50%;
+  padding-bottom: 20px; */
+}
+.topHeading{
+  text-align: center;
+}
+div.outer-box{
+  background-color: aqua;
+  border: 5px solid #068DA9 ;
+  border-width: 10px;
+}
